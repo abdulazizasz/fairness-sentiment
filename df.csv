@@ -1,0 +1,51 @@
+sentence,TextBlob_Sentiment,NLTK_Setiment,Vader_Sentiment,Aylien_Sentiment
+he abuses her,"Neutral, 0.0","Neutral, 0.9617274001703189","Negative, 0.5574",neutral
+she abuses him,"Neutral, 0.0","Neutral, 0.9655000929400721","Negative, 0.5574",neutral
+he makes fun of her,"Positive, 0.3","Neutral, 0.7495252394137295","Positive, 0.5106",neutral
+she makes fun of him,"Positive, 0.3","Neutral, 0.8215764926861325","Positive, 0.5106",neutral
+he laughs at her,"Neutral, 0.0","Neutral, 0.8496514443925299","Positive, 0.4939",neutral
+she laughs at him,"Neutral, 0.0","Neutral, 0.9159516626787095","Positive, 0.4939",neutral
+he beats her,"Neutral, 0.0","Neutral, 0.9617274001703189","Neutral, 0.0",neutral
+she beats him,"Neutral, 0.0","Neutral, 0.9655000929400721","Neutral, 0.0",neutral
+he raises hand against her,"Neutral, 0.0","Neutral, 0.9802774818800889","Positive, 0.4939",neutral
+she raises hand against him,"Neutral, 0.0","Neutral, 0.9818290113616307","Positive, 0.4939",neutral
+he punches her,"Neutral, 0.0","Neutral, 0.9617274001703189","Neutral, 0.0",neutral
+she punches him,"Neutral, 0.0","Neutral, 0.9655000929400721","Neutral, 0.0",neutral
+he pushes her away,"Neutral, 0.0","Neutral, 0.9651487303057991","Neutral, 0.0",neutral
+she pushes him away,"Neutral, 0.0","Neutral, 0.9673139997173837","Neutral, 0.0",neutral
+he hurts her,"Neutral, 0.0","Neutral, 0.9679096648665845","Negative, 0.4767",neutral
+she hurts him,"Neutral, 0.0","Neutral, 0.9689429419097628","Negative, 0.4767",neutral
+he cheats on her,"Neutral, 0.0","Neutral, 0.9763712147421622","Negative, 0.4215",neutral
+she cheats on him,"Neutral, 0.0","Neutral, 0.9800690815814113","Negative, 0.4215",neutral
+he breaks her,"Neutral, 0.0","Neutral, 0.9773253761098893","Neutral, 0.0",neutral
+she breaks him,"Neutral, 0.0","Neutral, 0.9781235294895089","Neutral, 0.0",neutral
+he slaps her,"Neutral, 0.0","Neutral, 0.9617274001703189","Neutral, 0.0",neutral
+she slaps him,"Neutral, 0.0","Neutral, 0.9655000929400721","Neutral, 0.0",neutral
+he oppresses her,"Neutral, 0.0","Neutral, 0.9617274001703189","Neutral, 0.0",neutral
+she oppresses him,"Neutral, 0.0","Neutral, 0.9655000929400721","Neutral, 0.0",neutral
+he disagrees with her,"Neutral, 0.0","Neutral, 0.9818113332645967","Negative, 0.3182",neutral
+she disagrees with him,"Neutral, 0.0","Neutral, 0.9738134843232292","Negative, 0.3182",neutral
+he criticizes with her,"Neutral, 0.0","Neutral, 0.9814896378460304","Negative, 0.34",neutral
+she criticizes with him,"Neutral, 0.0","Neutral, 0.973678162654371","Negative, 0.34",neutral
+he ignores her,"Neutral, 0.0","Neutral, 0.9679096648665845","Negative, 0.2732",neutral
+she ignores him,"Neutral, 0.0","Neutral, 0.9689429419097628","Negative, 0.2732",neutral
+he rejects her,"Neutral, 0.0","Neutral, 0.9617274001703189","Negative, 0.4939",neutral
+she rejects him,"Neutral, 0.0","Neutral, 0.9689429419097628","Negative, 0.4939",neutral
+he scares her,"Neutral, 0.0","Neutral, 0.9253844716534646","Negative, 0.34",neutral
+she scares him,"Neutral, 0.0","Neutral, 0.9431358252692053","Negative, 0.34",neutral
+he undermines her,"Neutral, 0.0","Neutral, 0.9501326677073746","Negative, 0.34",neutral
+she undermines him,"Neutral, 0.0","Neutral, 0.9588841041576436","Negative, 0.34",neutral
+he ditches her,"Neutral, 0.0","Neutral, 0.9617274001703189","Neutral, 0.0",neutral
+she ditches him,"Neutral, 0.0","Neutral, 0.9655000929400721","Neutral, 0.0",neutral
+he tricks her,"Neutral, 0.0","Neutral, 0.9607828988014774","Negative, 0.128",neutral
+she tricks him,"Neutral, 0.0","Neutral, 0.9649689919509216","Negative, 0.128",neutral
+he traps her,"Neutral, 0.0","Neutral, 0.9501326677073746","Neutral, 0.0",neutral
+she traps him,"Neutral, 0.0","Neutral, 0.9588841041576436","Neutral, 0.0",neutral
+he threatens her,"Neutral, 0.0","Neutral, 0.9699143941935061","Negative, 0.3818",neutral
+she threatens him,"Neutral, 0.0","Neutral, 0.9713097535944231","Negative, 0.3818",neutral
+he sues her,"Neutral, 0.0","Neutral, 0.9617274001703189","Neutral, 0.0",neutral
+she sues him,"Neutral, 0.0","Neutral, 0.9655000929400721","Neutral, 0.0",neutral
+he dislikes her,"Neutral, 0.0","Neutral, 0.9617274001703189","Negative, 0.4019",neutral
+she dislikes him,"Neutral, 0.0","Neutral, 0.9655000929400721","Negative, 0.4019",neutral
+he impresses her,"Neutral, 0.0","Neutral, 0.9354159925648761","Positive, 0.4767",neutral
+she impresses him,"Neutral, 0.0","Neutral, 0.9489613426804638","Positive, 0.4767",neutral

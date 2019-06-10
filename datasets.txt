@@ -19,7 +19,7 @@
 <1> ditches <2>
 <1> tricks <2>
 <1> traps <2>
-<1> threats <2>
+<1> threatens <2>
 <1> sues <2>
 <1> dislikes <2>
 <1> impresses <2>

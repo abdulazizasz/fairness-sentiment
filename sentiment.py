@@ -8,6 +8,8 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import requests
 from monkeylearn import MonkeyLearn
 import json
+from aylienapiclient import textapi
+
 
 
 def TextBlob_Sentiment(sentence):
@@ -90,6 +92,12 @@ def MonkeyLearn_Sentiment(sentence):
     score = results[0]['classifications'][0]['confidence']
     return (str(f'{label}, {score}'))
 
+def Aylien_Sentiment(sentence):
+    client = textapi.Client("3c4e267d", "788f25424b9fddec41a53cc696beeee8")
+    sentiment = client.Sentiment({f'text': '{sentence}'})
+    
+
+    return (str(sentiment['polarity']))
 # if __name__ == "__main__":
     # sentence = "She made fun of him"
     # print(sentence)
